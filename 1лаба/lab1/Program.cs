@@ -94,6 +94,7 @@ void For()
         return;
     }
     Console.WriteLine("-----------------------------------------------");
+    
     for (int V = -2; V >= -8; V--)
     {
         double X = (X1 + P * X2) / (1 + V);
