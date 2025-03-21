@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arr20\\Source\\Repos\\c-\\1лаба\\lab1\\lab1.csproj": {}
+    "C:\\Users\\arr20\\Source\\Repos\\c-\\lab22\\lab22.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arr20\\Source\\Repos\\c-\\1лаба\\lab1\\lab1.csproj": {
+    "C:\\Users\\arr20\\Source\\Repos\\c-\\lab22\\lab22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arr20\\Source\\Repos\\c-\\1лаба\\lab1\\lab1.csproj",
-        "projectName": "lab1",
-        "projectPath": "C:\\Users\\arr20\\Source\\Repos\\c-\\1лаба\\lab1\\lab1.csproj",
+        "projectUniqueName": "C:\\Users\\arr20\\Source\\Repos\\c-\\lab22\\lab22.csproj",
+        "projectName": "lab22",
+        "projectPath": "C:\\Users\\arr20\\Source\\Repos\\c-\\lab22\\lab22.csproj",
         "packagesPath": "C:\\Users\\arr20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arr20\\Source\\Repos\\c-\\1лаба\\lab1\\obj\\",
+        "outputPath": "C:\\Users\\arr20\\Source\\Repos\\c-\\lab22\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
